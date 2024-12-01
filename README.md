@@ -64,6 +64,8 @@ MrExcel
 
 https://www.mrexcel.com/board/threads/add-column-headers-in-a-worksheet-using-vba.1078803/
 
+Thay Chansy
+
 Our Gitlab resources
 
 Various YouTube videos
