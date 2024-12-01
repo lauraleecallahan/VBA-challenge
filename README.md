@@ -64,6 +64,8 @@ MrExcel
 
 https://www.mrexcel.com/board/threads/add-column-headers-in-a-worksheet-using-vba.1078803/
 
+https://learn.microsoft.com/en-us/office/vba/language/reference/user-interface-help/for-without-next
+
 Thay Chansy
 
 Our Gitlab resources
